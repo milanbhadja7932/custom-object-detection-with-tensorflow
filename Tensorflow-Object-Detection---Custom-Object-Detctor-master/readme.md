@@ -2,9 +2,6 @@
 
 Hi, This is about custom object detector using tensorflow object detection API. In this project trying to detect batman apperance. Please refer step by step.
 
-![Result](/results/result1.png)
-
-![Result](/results/result2.png)
 
 ## Preparing resources for tensorflow custom object detection.
 
@@ -145,8 +142,6 @@ To export frozen_inference\_graph.pb file execute following commad.
 
 6. Run cells.
 
-## Refences
 
-1. [Tensorflow object detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
 	
